@@ -1,0 +1,1 @@
+# D-Azure-AISearch-config
